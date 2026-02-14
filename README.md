@@ -20,6 +20,22 @@ This project is designed as a reviewer‑grade assignment demonstrating conversa
 * Synthetic multi‑clinic, multi‑doctor demo dataset
 
 ---
+# 📸 Screenshots
+
+## Symptom Intake Conversation
+![Intake Flow](screenshots/intake_flow.png)
+
+## Specialty Detection + Doctor Suggestions
+![Doctor List](screenshots/doctor_list.png)
+
+## Insurance Collection Step
+![Insurance](screenshots/insurance_step.png)
+
+## Available Slots Display
+![Slots](screenshots/slots.png)
+
+## Booking Confirmation
+![Booking Success](screenshots/booking_success.png)
 
 #  Conversational Guardrails
 
