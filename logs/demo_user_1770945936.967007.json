@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "My dental crown came off while eating\n"
+  },
+  {
+    "role": "assistant",
+    "content": "This looks like a Restorative Dentistry visit. Would you like me to check which dentists are available?"
+  }
+]

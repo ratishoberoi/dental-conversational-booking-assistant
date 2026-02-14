@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "My dental crown came off while eating\n"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry to hear that! Can you tell me if you're experiencing any pain or sensitivity in that area?"
+  },
+  {
+    "role": "user",
+    "content": "Yes, mild pain but very sensitive to cold\n"
+  },
+  {
+    "role": "assistant",
+    "content": "That sounds uncomfortable. Is the sensitivity to cold constant, or does it come and go?"
+  },
+  {
+    "role": "user",
+    "content": "Constant "
+  },
+  {
+    "role": "assistant",
+    "content": "I understand. Have you noticed any swelling or redness around the area where the crown came off?"
+  },
+  {
+    "role": "user",
+    "content": "redness is there , can u tell me the treatment for it ?"
+  },
+  {
+    "role": "assistant",
+    "content": "I can't provide treatment advice, but based on your symptoms, it sounds like you may need to see a restorative dentist. They can help with reattaching the crown and addressing any sensitivity or redness. Would you like me to show you available doctors for an appointment?"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "My dental crown came off while eating\n"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry to hear that! How long ago did it come off, and are you experiencing any pain or sensitivity in that area?"
+  },
+  {
+    "role": "user",
+    "content": "It came off yesterday , I have mild pain but gets severe whenever i try to eat something "
+  },
+  {
+    "role": "assistant",
+    "content": "That sounds uncomfortable. Is the pain localized to the area where the crown was, or are you feeling any discomfort in surrounding teeth as well?"
+  },
+  {
+    "role": "user",
+    "content": "Localized but nearby gums are slightly paining too , is it a thing to worry ?"
+  },
+  {
+    "role": "assistant",
+    "content": "It's understandable to be concerned, especially with the pain and the crown coming off. The fact that you're experiencing discomfort in the gums nearby could indicate some irritation or inflammation. It's a good idea to get this checked out, as a dental professional can assess the situation and determine the best course of action. \n\nSince your symptoms suggest you might need restorative dentistry to address the crown and any gum issues, would you like me to show you available doctors for an appointment?"
+  },
+  {
+    "role": "user",
+    "content": "Yes , please "
+  },
+  {
+    "role": "assistant",
+    "content": "Please tell me which doctor you would like to book with from the list above."
+  },
+  {
+    "role": "user",
+    "content": "No list i can see "
+  },
+  {
+    "role": "assistant",
+    "content": "Please tell me which doctor you would like to book with from the list above."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "My dental crown came off while eating\n"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry to hear that! Did you experience any pain or sensitivity in the tooth after the crown came off?"
+  }
+]

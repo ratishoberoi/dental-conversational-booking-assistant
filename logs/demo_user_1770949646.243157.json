@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "My dental crown came off while eating\n"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry to hear that! Have you experienced any pain or sensitivity in the area where the crown was?"
+  },
+  {
+    "role": "user",
+    "content": "Yes i have mild pain but it gets severe whenever i try to have something "
+  },
+  {
+    "role": "assistant",
+    "content": "That sounds uncomfortable. Is the pain localized to the area where the crown was, or are you feeling it in other parts of your mouth as well?"
+  },
+  {
+    "role": "user",
+    "content": "no ,mainly in that area but slightly in surrounding gums also "
+  },
+  {
+    "role": "assistant",
+    "content": "It sounds like you might need to see a restorative dentist. They specialize in issues like lost crowns and can help address the pain and any potential damage to the tooth underneath. Would you like me to show you some available doctors for an appointment?"
+  }
+]

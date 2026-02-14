@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "My crown came off while eating\n"
+  },
+  {
+    "role": "assistant",
+    "content": "I handle only dental appointment conversations."
+  },
+  {
+    "role": "user",
+    "content": "My crown came off while eating\n"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry to hear that! Can you tell me if you're experiencing any pain or sensitivity in that area?"
+  },
+  {
+    "role": "user",
+    "content": "Yes mild pain , sometimes severe"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks for sharing that. Is the pain constant, or does it come and go, especially when you eat or drink?"
+  },
+  {
+    "role": "user",
+    "content": "mild pain is constant but severe pain is comes and goes on having something cold"
+  },
+  {
+    "role": "assistant",
+    "content": "It sounds like you might need to have that crown reattached or assessed, especially since you're experiencing pain. Have you had any issues with that tooth before, or is this the first time?"
+  }
+]

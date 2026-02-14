@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "Deep tooth pain"
+  },
+  {
+    "role": "assistant",
+    "content": "Can you tell me if the pain is constant, or does it come and go?"
+  },
+  {
+    "role": "user",
+    "content": "throbbing"
+  },
+  {
+    "role": "assistant",
+    "content": "Is the pain localized to one specific tooth, or are you feeling it in multiple areas?"
+  },
+  {
+    "role": "user",
+    "content": "multiple"
+  },
+  {
+    "role": "assistant",
+    "content": "Are you experiencing any sensitivity to hot or cold foods and drinks?"
+  },
+  {
+    "role": "user",
+    "content": "Yes , it reacts to hot and cold"
+  },
+  {
+    "role": "assistant",
+    "content": "Available doctors for General Dentistry:\n- Dr. Dr Sharma \u2014 SmileCare Central\n- Dr. Anita Sharma \u2014 SmileCare Clinic\n- Dr. Rahul Mehta \u2014 BrightTooth Center\n\nWhich doctor would you like to book with?"
+  },
+  {
+    "role": "user",
+    "content": "Anita"
+  },
+  {
+    "role": "assistant",
+    "content": "Before I show slots, may I confirm \u2014 do you have dental insurance?"
+  }
+]

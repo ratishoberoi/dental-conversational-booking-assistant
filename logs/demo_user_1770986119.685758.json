@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "My braces wire snapped and it's poking my cheek\n"
+  },
+  {
+    "role": "assistant",
+    "content": "That sounds uncomfortable! How long has the wire been poking your cheek?"
+  },
+  {
+    "role": "user",
+    "content": "started today"
+  },
+  {
+    "role": "assistant",
+    "content": "I\u2019m sorry to hear that! Are you experiencing any pain or irritation from the wire?"
+  }
+]

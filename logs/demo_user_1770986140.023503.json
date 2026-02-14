@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "My braces wire snapped and it's poking my cheek\n"
+  },
+  {
+    "role": "assistant",
+    "content": "That sounds uncomfortable! How long has the wire been poking your cheek?"
+  },
+  {
+    "role": "user",
+    "content": "started today"
+  },
+  {
+    "role": "assistant",
+    "content": "I\u2019m sorry to hear that! Are you experiencing any pain or irritation from the wire?"
+  },
+  {
+    "role": "user",
+    "content": "painful while chewing"
+  },
+  {
+    "role": "assistant",
+    "content": "I understand. Is the pain localized to a specific area, or is it more general throughout your mouth?"
+  },
+  {
+    "role": "user",
+    "content": "Throughout"
+  },
+  {
+    "role": "assistant",
+    "content": "That sounds really uncomfortable, especially while chewing. Since you have braces, it would be best to see an orthodontist, as they specialize in correcting issues with braces and wires. Would you like me to show you available doctors?"
+  }
+]

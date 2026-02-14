@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "My dental crown came off while eating\n"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry to hear that! Did you experience any pain or sensitivity in the tooth after the crown came off?"
+  },
+  {
+    "role": "user",
+    "content": "Yes, mild pain but very sensitive to cold\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks for sharing that. How long has the crown been off?"
+  },
+  {
+    "role": "user",
+    "content": "2 days"
+  },
+  {
+    "role": "assistant",
+    "content": "Got it. Have you noticed any swelling or redness around the tooth?"
+  },
+  {
+    "role": "user",
+    "content": "yes redness is there , can you tell me it's treatment ?"
+  },
+  {
+    "role": "assistant",
+    "content": "Available doctors for Restorative Dentistry:\n- Dr. Vikram Rao \u2014 SmileCare Clinic\n- Dr. Neha Kapoor \u2014 City Dental Hub\n\nWhich doctor would you like to book with?"
+  },
+  {
+    "role": "user",
+    "content": "Vikram"
+  },
+  {
+    "role": "assistant",
+    "content": "Before I show slots, may I confirm \u2014 do you have dental insurance?"
+  }
+]

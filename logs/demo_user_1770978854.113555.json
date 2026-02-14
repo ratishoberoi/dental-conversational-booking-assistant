@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "My dental crown came off while eating\n"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry to hear that! How does the tooth feel now? Is there any pain or sensitivity?"
+  },
+  {
+    "role": "user",
+    "content": "Yes, mild pain but very sensitive to cold\n"
+  },
+  {
+    "role": "assistant",
+    "content": "That sounds uncomfortable. Is the area around the tooth swollen or red at all?"
+  },
+  {
+    "role": "user",
+    "content": "yes it's red , can u tell me the treatment ?"
+  },
+  {
+    "role": "assistant",
+    "content": "I can't provide treatment advice, but it sounds like you might need to have the crown reattached and possibly address the sensitivity and redness. Have you noticed any issues with your gums around that area, like bleeding or discomfort?"
+  },
+  {
+    "role": "user",
+    "content": "Nope , now can you stop asking questions and stop irritating me?"
+  },
+  {
+    "role": "assistant",
+    "content": "I understand that this situation can be really frustrating, and I'm here to help. Based on what you've shared, it sounds like you might need a restorative dentistry visit to address the crown and the sensitivity. Would you like me to show you available doctors for this?"
+  },
+  {
+    "role": "user",
+    "content": "Sure"
+  },
+  {
+    "role": "assistant",
+    "content": "Please tell me which doctor you would like to book with from the list above."
+  }
+]

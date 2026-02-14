@@ -1,0 +1,50 @@
+[
+  {
+    "role": "user",
+    "content": "My dental crown came off while eating\n"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry to hear that! Have you experienced any pain or sensitivity in the area where the crown was?"
+  },
+  {
+    "role": "user",
+    "content": "Yes i have mild pain but it gets severe whenever i try to have something "
+  },
+  {
+    "role": "assistant",
+    "content": "That sounds uncomfortable. Is the pain localized to the area where the crown was, or are you feeling it in other parts of your mouth as well?"
+  },
+  {
+    "role": "user",
+    "content": "no ,mainly in that area but slightly in surrounding gums also "
+  },
+  {
+    "role": "assistant",
+    "content": "It sounds like you might need to see a restorative dentist. They specialize in issues like lost crowns and can help address the pain and any potential damage to the tooth underneath. Would you like me to show you some available doctors for an appointment?"
+  },
+  {
+    "role": "user",
+    "content": "yes"
+  },
+  {
+    "role": "assistant",
+    "content": "Available doctors for Restorative Dentistry:\n- Dr. Vikram Rao (Restorative Dentistry) \u2014 SmileCare Clinic\n- Dr. Neha Kapoor (Restorative Dentistry) \u2014 City Dental Hub\n\nWhich doctor would you like to book with?"
+  },
+  {
+    "role": "user",
+    "content": "Mr. Vikram Rao "
+  },
+  {
+    "role": "assistant",
+    "content": "Before I show appointment slots, please provide your insurance provider and member/policy ID."
+  },
+  {
+    "role": "user",
+    "content": "I don't have any insurance "
+  },
+  {
+    "role": "assistant",
+    "content": "Here are available slots with Dr. Vikram Rao. Select one to confirm booking."
+  }
+]

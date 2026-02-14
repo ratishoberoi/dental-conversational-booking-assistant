@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "I have chest pain and fever\n"
+  },
+  {
+    "role": "assistant",
+    "content": "I handle only dental appointment conversations."
+  }
+]

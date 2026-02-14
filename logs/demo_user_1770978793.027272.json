@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "My dental crown came off while eating\n"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry to hear that! How does the tooth feel now? Is there any pain or sensitivity?"
+  },
+  {
+    "role": "user",
+    "content": "Yes, mild pain but very sensitive to cold\n"
+  },
+  {
+    "role": "assistant",
+    "content": "That sounds uncomfortable. Is the area around the tooth swollen or red at all?"
+  }
+]

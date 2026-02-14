@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "My gums are swollen and bleeding when I brush\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Have you noticed any pain or discomfort in your gums as well?"
+  },
+  {
+    "role": "user",
+    "content": "Yes pain while brushing "
+  },
+  {
+    "role": "assistant",
+    "content": "How long have you been experiencing these symptoms?"
+  }
+]

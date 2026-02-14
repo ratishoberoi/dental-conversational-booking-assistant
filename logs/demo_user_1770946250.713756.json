@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "My dental crown came off while eating\n"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry to hear that! Can you tell me if you're experiencing any pain or sensitivity in that area?"
+  },
+  {
+    "role": "user",
+    "content": "I have mild pain but it gets severe sometimes"
+  },
+  {
+    "role": "assistant",
+    "content": "That sounds uncomfortable. Is the pain more intense when you eat or drink something hot or cold?"
+  }
+]

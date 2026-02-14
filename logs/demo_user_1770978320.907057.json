@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "My dental crown came off while eating\n"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry to hear that! How long ago did it come off, and are you experiencing any pain or sensitivity in that area?"
+  },
+  {
+    "role": "user",
+    "content": "Yes, mild pain but very sensitive to cold\n2  days back "
+  },
+  {
+    "role": "assistant",
+    "content": "Available doctors for Restorative Dentistry:\n- Dr. Vikram Rao \u2014 SmileCare Clinic\n- Dr. Neha Kapoor \u2014 City Dental Hub\n\nWhich doctor would you like to book with?"
+  },
+  {
+    "role": "user",
+    "content": "WTF?"
+  },
+  {
+    "role": "assistant",
+    "content": "Please tell me which doctor you would like to book with from the list above."
+  },
+  {
+    "role": "user",
+    "content": "Vikram"
+  },
+  {
+    "role": "assistant",
+    "content": "Please tell me which doctor you would like to book with from the list above."
+  }
+]

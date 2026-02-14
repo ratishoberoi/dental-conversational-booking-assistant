@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "My dental crown came off while eating\n"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm sorry to hear that! Can you tell me if you\u2019re experiencing any pain or sensitivity in that area?"
+  },
+  {
+    "role": "user",
+    "content": "Yes, mild pain but very sensitive to cold\n"
+  },
+  {
+    "role": "assistant",
+    "content": "Thanks for sharing that. Is the sensitivity to cold constant, or does it come and go?"
+  },
+  {
+    "role": "user",
+    "content": "Constant "
+  },
+  {
+    "role": "assistant",
+    "content": "Got it. Is there any swelling or redness around the area where the crown came off?"
+  },
+  {
+    "role": "user",
+    "content": "Redness is there , can you tell me the treatment for this ?"
+  },
+  {
+    "role": "assistant",
+    "content": "I understand your concern, but I can't provide treatment advice. However, based on your symptoms, it sounds like you may need to see a restorative dentist to address the crown and any underlying issues. Would you like me to show you available doctors for an appointment?"
+  },
+  {
+    "role": "user",
+    "content": "okay "
+  },
+  {
+    "role": "assistant",
+    "content": "Please tell me which doctor you would like to book with from the list above."
+  }
+]
