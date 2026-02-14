@@ -34,8 +34,6 @@ This project is designed as a reviewer‑grade assignment demonstrating conversa
 ## Available Slots Display
 ![Slots](screenshots/slots.png)
 
-## Booking Confirmation
-![Booking Success](screenshots/booking_success.png)
 
 #  Conversational Guardrails
 
